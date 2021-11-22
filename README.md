@@ -1,8 +1,8 @@
-# Запуск
+# Image Classification Example on MetaFlow (Netflix)
+# Start
 ```
 python3 main.py  --environment=conda run 
 ```
-# Image Classification Example on MetaFlow (Netflix)
 ## What is this project?
 This project is example of designing workflow with MetaFLow 
 
